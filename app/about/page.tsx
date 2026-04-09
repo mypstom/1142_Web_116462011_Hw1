@@ -15,6 +15,7 @@ export default function About() {
         <div className="sm:block hidden">
           <Menu />
         </div>
+        
         <div className="bg-red-500 w-full">
           About 關於我
         </div>
